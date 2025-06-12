@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "bot",
+    "telegram_cloud_filesystem"
+]
+resolver = "2"
