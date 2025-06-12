@@ -1,0 +1,8 @@
+[package]
+name = "bot"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+frankenstein = { version = "0.41.0", features = ["client-ureq"] }
+dotenvy = "0.15"

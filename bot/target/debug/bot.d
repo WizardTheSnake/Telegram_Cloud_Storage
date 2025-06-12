@@ -1,0 +1,1 @@
+C:\Users\janci\Desktop\Telegram\Telegram_Cloud_Storage\bot\target\debug\bot.exe: C:\Users\janci\Desktop\Telegram\Telegram_Cloud_Storage\bot\src\bot.rs C:\Users\janci\Desktop\Telegram\Telegram_Cloud_Storage\bot\src\main.rs

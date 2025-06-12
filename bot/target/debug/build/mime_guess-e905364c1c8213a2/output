@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=C:\Users\janci\Desktop\Telegram\Telegram_Cloud_Storage\bot\target\debug\build\mime_guess-e905364c1c8213a2\out\mime_types_generated.rs
